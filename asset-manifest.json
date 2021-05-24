@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/Pockemon-App/static/js/main.ea3b3990.chunk.js",
+    "main.js.map": "/Pockemon-App/static/js/main.ea3b3990.chunk.js.map",
+    "runtime-main.js": "/Pockemon-App/static/js/runtime-main.030524f7.js",
+    "runtime-main.js.map": "/Pockemon-App/static/js/runtime-main.030524f7.js.map",
+    "static/js/2.690e0390.chunk.js": "/Pockemon-App/static/js/2.690e0390.chunk.js",
+    "static/js/2.690e0390.chunk.js.map": "/Pockemon-App/static/js/2.690e0390.chunk.js.map",
+    "index.html": "/Pockemon-App/index.html",
+    "static/js/2.690e0390.chunk.js.LICENSE.txt": "/Pockemon-App/static/js/2.690e0390.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.030524f7.js",
+    "static/js/2.690e0390.chunk.js",
+    "static/js/main.ea3b3990.chunk.js"
+  ]
+}
